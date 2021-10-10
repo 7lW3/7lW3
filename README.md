@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @7lW3
-- 👀 I’m interested in web application security testing.
-- 🌱 I’m currently learning OWASP Top 10 security issues.
-- 💞️ I’m looking to collaborate on web security.
 - 📫 Reach me here. :)
 
 <!---
